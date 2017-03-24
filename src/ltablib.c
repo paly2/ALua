@@ -14,7 +14,7 @@
 #include <stddef.h>
 #include <string.h>
 
-#include "lua.h"
+#include "alua.h"
 
 #include "lauxlib.h"
 #include "lualib.h"

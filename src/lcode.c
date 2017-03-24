@@ -13,7 +13,7 @@
 #include <math.h>
 #include <stdlib.h>
 
-#include "lua.h"
+#include "alua.h"
 
 #include "lcode.h"
 #include "ldebug.h"

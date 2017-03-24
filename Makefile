@@ -41,7 +41,7 @@ PLATS= aix bsd c89 freebsd generic linux macosx mingw posix solaris
 # What to install.
 TO_BIN= alua aluac
 TO_INC= alua.h aluaconf.h alualib.h alauxlib.h alua.hpp
-TO_LIB= aliblua.a
+TO_LIB= libalua.a
 TO_MAN= alua.1 aluac.1
 
 # ALua version and release.

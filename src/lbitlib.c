@@ -10,7 +10,7 @@
 #include "lprefix.h"
 
 
-#include "lua.h"
+#include "alua.h"
 
 #include "lauxlib.h"
 #include "lualib.h"

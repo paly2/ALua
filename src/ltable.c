@@ -26,7 +26,7 @@
 #include <math.h>
 #include <limits.h>
 
-#include "lua.h"
+#include "alua.h"
 
 #include "ldebug.h"
 #include "ldo.h"

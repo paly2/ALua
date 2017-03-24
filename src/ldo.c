@@ -14,7 +14,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "lua.h"
+#include "alua.h"
 
 #include "lapi.h"
 #include "ldebug.h"

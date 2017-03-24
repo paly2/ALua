@@ -22,7 +22,7 @@
 ** Any function declared here could be written as an application function.
 */
 
-#include "lua.h"
+#include "alua.h"
 
 #include "lauxlib.h"
 

@@ -8,7 +8,7 @@
 #ifndef lzio_h
 #define lzio_h
 
-#include "lua.h"
+#include "alua.h"
 
 #include "lmem.h"
 

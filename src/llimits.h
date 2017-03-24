@@ -12,7 +12,7 @@
 #include <stddef.h>
 
 
-#include "lua.h"
+#include "alua.h"
 
 /*
 ** 'lu_mem' and 'l_mem' are unsigned/signed integers big enough to count
